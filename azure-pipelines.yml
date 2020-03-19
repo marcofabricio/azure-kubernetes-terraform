@@ -22,8 +22,8 @@ steps:
     backendServiceArm: 'azure-resource-manager-service-connection'
     backendAzureRmResourceGroupName: 'terraform-backend-rg'
     backendAzureRmResourceGroupLocation: 'eastus'
-    backendAzureRmStorageAccountName: 'storageacctqertbr'
-    backendAzureRmContainerName: 'storageacctrangacontainerqwertbr'
+    backendAzureRmStorageAccountName: 'storageacctqertbrt'
+    backendAzureRmContainerName: 'storageacctrangacontainerqwertbrt'
     backendAzureRmKey: 'kubernetes-dev.tfstate'
 
 - task: TerraformCLI@0
